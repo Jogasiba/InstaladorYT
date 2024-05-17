@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaixarAudioYt", "BaixarAudioYt\BaixarAudioYt.csproj", "{AF717FE4-9F16-4A1B-8B41-0B4011D01F0A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BaixarVideoYt_Instalador", "BaixarVideoYt_Instalador\BaixarVideoYt_Instalador.vdproj", "{CD0C6E7F-C29C-463C-94F0-263247A22F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF717FE4-9F16-4A1B-8B41-0B4011D01F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF717FE4-9F16-4A1B-8B41-0B4011D01F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF717FE4-9F16-4A1B-8B41-0B4011D01F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF717FE4-9F16-4A1B-8B41-0B4011D01F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0C6E7F-C29C-463C-94F0-263247A22F13}.Debug|Any CPU.ActiveCfg = Debug
+		{CD0C6E7F-C29C-463C-94F0-263247A22F13}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1903CD1B-205C-4B36-BE76-686D2050DCD9}
+	EndGlobalSection
+EndGlobal
